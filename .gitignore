@@ -2,3 +2,5 @@
 fp-info-cache
 *.kicad_prl
 *-backups/
+*.round-tracks-config
+plots/
